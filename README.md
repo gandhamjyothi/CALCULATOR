@@ -11,6 +11,8 @@ A simple and interactive **Calculator application** built using Python and Tkint
 * Organized, modular, and readable code (under 300 lines)
 
 ### 🛠️ Tech Stack
+
 Language: Python 3
+
 Library: Tkinter (standard GUI package)
 
